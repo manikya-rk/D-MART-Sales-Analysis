@@ -1,5 +1,6 @@
 **D MART Sales Analysis**
 
+
 This repository contains a project focused on analyzing sales data from D MART, a retail store. The analysis aims to derive insights into various aspects of sales, including location, brand, category, and subcategory.
 
 **Problem Statement**
