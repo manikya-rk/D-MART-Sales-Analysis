@@ -3,6 +3,10 @@
 
 This repository contains a project focused on analyzing sales data from D MART, a retail store. The analysis aims to derive insights into various aspects of sales, including location, brand, category, and subcategory.
 
+**Tools Used:**
+Power BI
+Power Querty
+
 **Problem Statement**
 The goal of this project is to answer the following questions:
 
